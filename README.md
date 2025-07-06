@@ -29,12 +29,16 @@ I believe in continuous learning and collaboration, and I'm always on the lookou
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat&logo=numpy)  
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas)  
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-black?style=flat&logo=scikit-learn)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=matplotlib)
+![Mediapipe](https://img.shields.io/badge/-MediaPipe-black?style=flat&logo=google)
 
 **Web & Tools:**  
-![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat&logo=streamlit)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)  
-![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat&logo=visual-studio-code)
+![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat&logo=streamlit)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-black?style=flat&logo=googlecolab)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-black?style=flat&logo=visualstudiocode)
 
 ---
 
