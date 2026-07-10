@@ -48,8 +48,8 @@ I'm always excited to collaborate on innovative projects and explore opportuniti
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthSengar28&show_icons=true&theme=radical" alt="Parth's GitHub stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSengar28&layout=compact&theme=radical" alt="Top languages" width="45%"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ParthSengar28&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSengar28&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
