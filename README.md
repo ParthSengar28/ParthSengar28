@@ -5,11 +5,14 @@
 
 ## 🧑‍💻 About Me
 
-I'm a final-year B.Tech Computer Science student from India, deeply passionate about exploring how **Artificial Intelligence**, **Machine Learning**, and **Data Science** can drive innovation and solve real-world problems.  
+# Hi there, I'm Parth Sengar 👋
 
-Over the years, I’ve immersed myself in the core concepts of intelligent systems — not just by studying algorithms but by **building impactful projects** that blend creativity with computation.
+I'm a **B.Tech graduate in Computer Science & Engineering** from India with a strong passion for **Artificial Intelligence, Machine Learning, and Generative AI**. I enjoy building intelligent solutions that solve real-world problems and create meaningful user experiences.
 
-I believe in continuous learning and collaboration, and I'm always on the lookout for **new challenges, internships, and freelance opportunities** that push my boundaries and help me grow.
+My journey has been driven by hands-on learning—developing AI-powered applications, working with modern LLMs, computer vision, automation, and full-stack technologies. I believe the best way to learn is by building, experimenting, and continuously improving.
+
+I'm always excited to collaborate on innovative projects and explore opportunities in **AI/ML, GenAI, and Software Development**. Whether it's creating intelligent applications, automating workflows, or solving challenging problems, I'm eager to learn, contribute, and grow as an engineer.
+
 
 ---
 
@@ -54,7 +57,7 @@ I believe in continuous learning and collaboration, and I'm always on the lookou
 ## 🤝 Let's Connect!
 
 📫 **Email:** sengarparth01@gmail.com  
-🌐 **Portfolio:** [ParthSengar_Portfolio](https://parthsengar28.github.io/)  
+🌐 **Portfolio:** [ParthSengar_Portfolio]([https://parthsengar28.github.io/](https://mac-os-portfolio-sepia-five.vercel.app/))  
 💼 **LinkedIn:** [ParthSengar_LinkedIn](https://www.linkedin.com/in/parth-sengar-314621245/)  
 
 ---
